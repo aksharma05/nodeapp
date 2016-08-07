@@ -1,0 +1,6 @@
+$ ssh-keygen -t rsa -c "mypage.viky@gmail.com"
+
+git remote add origin git@github.com
+git push -u origin master
+
+git@github.com:aksharma05/myfirstproject.git
